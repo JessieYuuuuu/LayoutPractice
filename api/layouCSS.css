@@ -16,17 +16,23 @@
     
 }
 
-nav h1 {
+/* nav h1 {
     position: absolute;
     left: 10px;
     top: 0;
     line-height: 80px;
     width: 50px;
     text-indent: -999px;
-    background-image: url(/img/figmaIcon.png);
+    background-image: url(img/figmaIcon.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
+} */
+
+nav img{
+    margin-top: 10px;
+    margin-left: 20px;
+    height: 60px;
 }
 
 nav li {
